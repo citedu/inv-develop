@@ -48,9 +48,12 @@ grails.logging.jul.usebridge = true
 // packages to include in Spring bean scanning
 grails.spring.bean.packages = []
 
+<<<<<<< HEAD
 // request parameters to mask when logging exceptions
 grails.exceptionresolver.params.exclude = ['password']
 
+=======
+>>>>>>> 98e9cfb66c2e88408db450f67871413183e9a0d1
 // set per-environment serverURL stem for creating absolute links
 environments {
     production {
